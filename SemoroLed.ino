@@ -1,5 +1,5 @@
 // Semáforo sencillo en Arduino
-int tiempoEspera = 5000;
+int tiempoEspera = 1000;
  
 void setup(){
   pinMode(10, OUTPUT);    // Rojo
